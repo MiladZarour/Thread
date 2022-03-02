@@ -1,0 +1,1 @@
+gcc Mutex.c -lpthread -o main && ./main

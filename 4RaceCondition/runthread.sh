@@ -1,0 +1,1 @@
+gcc mainRaceCondition.c -lpthread -o main && ./main

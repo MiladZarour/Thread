@@ -1,0 +1,1 @@
+gcc main-proccess.c -lpthread -o main && ./main

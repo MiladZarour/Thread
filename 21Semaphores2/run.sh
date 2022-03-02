@@ -1,0 +1,1 @@
+clear  && gcc main.c -lpthread -o main && ./main
